@@ -25,7 +25,7 @@
 - 🌱 **Exploring:** Node.js, Express.js & MongoDB
 - 🧠 **Improving:** JavaScript, TypeScript & Problem Solving
 - 🎯 **Focused on:** Clean Code, Performance & UI/UX
-- 📫 **Email:** [poranmia2222@gmail.com](mailto:poranmia2222@gmail.com)
+- 📫 **Feel free to reach me out** [Email](mailto:poranmia2222@gmail.com)
 
 ---
 
