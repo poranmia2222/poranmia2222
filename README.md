@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.jpg" alt="Md. Poran Mia - Full Stack Web Developer" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm MD Poran Mia</h1>
 
 <h3 align="center">
