@@ -36,9 +36,7 @@ My design background helps me approach development from both a **creative and te
 
 ## 🚀 Tech Stack
 
-## 🛠️ Skills
-
-<div align="center">
+<div align="left">
 
 **💻 Languages:**  
 <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
@@ -57,9 +55,10 @@ My design background helps me approach development from both a **creative and te
 <br>
 
 **🧰 Tools:**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </div>
 
+<div align="left">
 ### Design Tools
 
 <p align="left">
@@ -73,28 +72,11 @@ My design background helps me approach development from both a **creative and te
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" width="45" height="45" alt="Illustrator"/>
   </a>
 </p>
+</div>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/poranmia/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-
-  <a href="https://www.facebook.com/poran1999" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
-  </a>
-
-  <a href="https://leetcode.com/u/poranmia/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
+## 📊  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poranmia2222&show_icons=true&locale=en" alt="GitHub Stats" />
