@@ -66,12 +66,28 @@
 
 ---
 
-## 📊  GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poranmia2222" alt="GitHub Streak" />
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=poranmia2222"
+    alt="GitHub Streak"
+    height="180"
+  />
+</p>
 ---
 
 
