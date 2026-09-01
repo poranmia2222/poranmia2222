@@ -1,154 +1,28 @@
-<h1 align="center">Hi 👋, I'm Poran</h1>
-<h3 align="center">A passionate Full-Stack MERN Developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm MD Poran Mia</h1>
+<h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=poranmia2222&label=Profile%20views&color=0e75b6&style=flat" alt="poranmia2222" /> </p>
+
+- 🔭 I’m currently working on **React.js, Next.js, Typescript for frontend development.**
+
+- 🌱 I’m currently learning **React, Next, Node, Express, MongoDB**
+
+- 📫 How to reach me **poranmia2222@gmail.com**
+
+- ⚡ Fun fact **My journey went from designing pixels to building applications.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/poranmia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/poranmia/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/poran1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/poran1999" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/poranmia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/poranmia/" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poranmia2222&show_icons=true&locale=en&layout=compact" alt="poranmia2222" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poranmia2222&show_icons=true&locale=en" alt="poranmia2222" /></p>
 
-### 🚀 About Me
-
-- 🔭 I'm currently working on **ToDo App**
-- 🌱 I'm currently learning **Next.js**
-- 👯 I'm looking to collaborate on **open-source MERN projects**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Express**
-- 📫 How to reach me: **poranmia2222@gmail.com**
-- ⚡ Fun fact: **I started my journey as a graphic designer, and now I’m on my way to becoming a full-stack developer. **
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,html,css,tailwind,git,github,docker,figma,vscode,postman" />
-</p>
-
-**Frontend:** React.js, Redux Toolkit, Next.js, Tailwind CSS, Bootstrap, HTML5, CSS3
-**Backend:** Node.js, Express.js, REST APIs, GraphQL, JWT Authentication
-**Database:** MongoDB, Mongoose, MySQL, Firebase
-**Tools & Platforms:** Git, GitHub, Vercel, Netlify
-**Testing:** Jest, React Testing Library, Mocha, Chai
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-     <h4>🔹 <a href="https://github.com/yourusername/project-one">ToDo App</a></h4>
-<p>
-  A full-stack MERN application for managing daily tasks with secure user authentication.
-  Features JWT authentication, CRUD operations, RESTful APIs, and a responsive UI.
-</p>
-      <p>
-        <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
-        <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-      </p>
-      <a href="https://your-live-demo-link.com">🔗 Live Demo</a>
-    </td>
-    <td width="50%">
-      <h4>🔹 <a href="https://github.com/yourusername/project-two">Project Name Two</a></h4>
-      <p>An e-commerce / social media / SaaS platform built with [brief description]. Features real-time updates and payment integration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" />
-        <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
-        <img src="https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss" />
-      </p>
-      <a href="https://your-live-demo-link.com">🔗 Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🔹 <a href="https://github.com/yourusername/project-three">Project Name Three</a></h4>
-      <p>A [type of app] built to solve [problem]. Includes CRUD operations, authentication, and cloud deployment.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-        <img src="https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens" />
-      </p>
-      <a href="https://your-live-demo-link.com">🔗 Live Demo</a>
-    </td>
-    <td width="50%">
-      <h4>🔹 <a href="https://github.com/yourusername/project-four">Project Name Four</a></h4>
-      <p>A collaborative tool/dashboard with real-time data visualization and role-based access control.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io" />
-        <img src="https://img.shields.io/badge/-Chart.js-black?style=flat-square&logo=chart.js" />
-      </p>
-      <a href="https://your-live-demo-link.com">🔗 Live Demo</a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💼 Experience
-
-**[Job Title]** — [Company Name] *(Month Year – Present)*
-- Built and maintained scalable REST APIs using Node.js and Express, serving [X]+ users
-- Developed responsive front-end interfaces with React.js, improving load times by [X]%
-- Collaborated with cross-functional teams using Agile methodology
-
-**[Previous Job Title]** — [Company Name] *(Month Year – Month Year)*
-- [Key achievement or responsibility]
-- [Key achievement or responsibility]
-
----
-
-### 🎓 Education
-
-**[Degree Name]** — [University/Institution Name] *(Year – Year)*
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">⭐️ From <a href="https://github.com/yourusername">yourusername</a></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poranmia2222&" alt="poranmia2222" /></p>
