@@ -1,84 +1,64 @@
 <p align="center">
-  <img src="./github-banner.jpg" alt="Md. Poran Mia - Full Stack Web Developer" width="100%">
+  <img src="./github-banner.jpg" alt="Md. Poran Mia — Full-Stack Web Developer" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm MD Poran Mia</h1>
-
-<h3 align="center">
-  Full-Stack Web Developer | JavaScript & React Enthusiast | Bangladesh 🇧🇩
-</h3>
+<h1 align="center">Hi 👋, I'm Md. Poran Mia</h1>
 
 <p align="center">
-  <a href="https://github.com/poranmia2222">
-    <img src="https://komarev.com/ghpvc/?username=poranmia2222&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Exploring+Next.js+%26+Modern+Web+Technologies" alt="MERN Stack Developer">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Web Developer** passionate about building modern, responsive, and user-focused web applications.
+> 🚀 **Full-Stack Web Developer** passionate about creating modern, responsive, and user-focused digital experiences.
 
-I've been working as a **Graphic Designer since 2020**, and along the way, I discovered my passion for web development. Now, I'm combining my creative design background with programming to build better digital experiences.
+With a background in **Graphic Design since 2020**, I transitioned into web development to combine **visual creativity with programming** and turn ideas into functional products.
 
-* 🔭 Currently working with **React.js, Next.js & TypeScript**
-* 🌱 Currently learning **React, Next.js, Node.js, Express.js & MongoDB**
-* 🎨 Graphic Designer since **2020**
-* 💻 Passionate about **Full-Stack Web Development**
-* 🧠 Interested in **JavaScript, TypeScript & Modern Web Technologies**
-* ⚡ Fun fact: **My journey went from designing pixels to building applications.**
-* 📫 Reach me at **[poranmia2222@gmail.com](mailto:poranmia2222@gmail.com)**
+### 🚀 What I'm Up To
+
+- 🔭 **Building:** Full-stack projects with **React.js, Next.js & TypeScript**
+- 🌱 **Exploring:** **Node.js, Express.js, MongoDB & advanced TypeScript**
+- 🎨 **Background:** **Graphic Design** since 2020
+- 🧠 **Improving:** **JavaScript, TypeScript & problem-solving**
+- 🎯 **Focused on:** **Clean code, performance & great user experiences**
+- ⚡ **Fun Fact:** My journey went from **designing pixels → writing code**
+- 📫 **Email:** [Email](mailto:poranmia2222@gmail.com)
+
+### 💡 My Journey
+
+**🎨 Design → 💻 Code → 🚀 Full-Stack**
+
+My design background helps me approach development from both a **creative and technical perspective**, allowing me to build products that are not only functional but also visually engaging.
 
 ---
 
 ## 🚀 Tech Stack
 
-### Frontend
+## 🛠️ Skills
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-  </a>
-  <a href="https://www.javascript.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
-  </a>
-</p>
+<div align="center">
 
-### Backend & Database
+**💻 Languages:**  
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+<br>
 
-<p align="left">
-  <a href="https://nodejs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-  </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="45" height="45" alt="Firebase"/>
-  </a>
-</p>
+**🎨 Frontend:**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+<br>
+
+**⚙️ Backend:**  
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<br>
+
+**🗄️ Databases:**  
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+<br>
+
+**🧰 Tools:**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</div>
 
 ### Design Tools
 
@@ -129,6 +109,7 @@ I've been working as a **Graphic Designer since 2020**, and along the way, I dis
 </p>
 
 ---
+
 
 ## 🎯 Current Focus
 
