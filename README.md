@@ -2,10 +2,15 @@
   <img src="./github-banner.jpg" alt="Md. Poran Mia — Full-Stack Web Developer" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Md. Poran Mia</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Md. Poran Mia
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Exploring+Next.js+%26+Modern+Web+Technologies" alt="MERN Stack Developer">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Exploring+Next.js+%26+Modern+Web+Technologies"
+    alt="MERN Stack Developer"
+  >
 </p>
 
 ---
@@ -20,59 +25,58 @@
 - 🌱 **Exploring:** Node.js, Express.js & MongoDB
 - 🧠 **Improving:** JavaScript, TypeScript & Problem Solving
 - 🎯 **Focused on:** Clean Code, Performance & UI/UX
-- 📫 **Email:** [Email](mailto:poranmia2222@gmail.com)
+- 📫 **Email:** [poranmia2222@gmail.com](mailto:poranmia2222@gmail.com)
 
 ---
 
 ## 🚀 Tech Stack
 
-<div align="left">
+<div align="center">
 
-**💻 Languages:**  
+**💻 Languages**
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 
-<br>
+<br><br>
 
-**🎨 Frontend:**  
+**🎨 Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
 
-<br>
+<br><br>
 
-**⚙️ Backend:**  
+**⚙️ Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-<br>
+<br><br>
 
-**🗄️ Databases:**  
+**🗄️ Databases & Services**
 
 <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 
-<br>
+<br><br>
 
-**🧰 Tools:**  
+**🧰 Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-</div>
+<br><br>
 
-<div align="left">
-  
-### Design Tools
+**🎨 Design Tools**
 
-<p align="left">
+<p>
   <a href="https://www.figma.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45" alt="Figma">
   </a>
   <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop">
   </a>
   <a href="https://www.adobe.com/products/illustrator.html">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" width="45" height="45" alt="Illustrator"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" width="45" height="45" alt="Illustrator">
   </a>
 </p>
+
 </div>
 
 ---
@@ -83,12 +87,12 @@
   <img
     src="./profile/stats.svg"
     alt="GitHub Stats"
-    height="180"
+    width="48%"
   />
   <img
     src="./profile/top-langs.svg"
     alt="Top Languages"
-    height="180"
+    width="43%"
   />
 </p>
 
@@ -96,12 +100,13 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=poranmia2222"
     alt="GitHub Streak"
-    height="180"
+    width="60%"
   />
 </p>
+
 ---
 
-<h2>🐍 Contribution Snake</h2>
+## 🐍 Contribution Snake
 
 <p align="center">
   <img
@@ -110,23 +115,32 @@
   />
 </p>
 
-
-## 🎯 Current Focus
-
-```text
-Frontend Development    ███████████████████░   React • Next.js • TypeScript
-Backend Development     ███████████████░░░░░   Node.js • Express.js
-Database                █████████████░░░░░░░   MongoDB
-Problem Solving         ████████████░░░░░░░░   JavaScript • TypeScript
-UI/UX & Design          ████████████████████   Figma • Photoshop • Illustrator
-```
-
 ---
 
+<h2 align="center">🤝 Let's Connect</h2>
+
 <p align="center">
-  <b>💻 Code. 🎨 Design. 🚀 Build.</b>
+  <a href="mailto:poranmia2222@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/poranmia/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+  <img
+    src="https://komarev.com/ghpvc/?username=poranmia2222&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
+
+<p align="center">
+  <i>💡 Always learning, building, and improving.</i>
 </p>
