@@ -29,26 +29,37 @@
 <div align="left">
 
 **💻 Languages:**  
+
 <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+
 <br>
 
 **🎨 Frontend:**  
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+
 <br>
 
 **⚙️ Backend:**  
+
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
+
 <br>
 
 **🗄️ Databases:**  
+
 <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+
 <br>
 
 **🧰 Tools:**  
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
 </div>
 
 <div align="left">
+  
 ### Design Tools
 
 <p align="left">
@@ -89,6 +100,15 @@
   />
 </p>
 ---
+
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/poranmia2222/poranmia2222/gh-pages/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 
 ## 🎯 Current Focus
