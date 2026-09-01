@@ -1,28 +1,147 @@
 <h1 align="center">Hi 👋, I'm MD Poran Mia</h1>
-<h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poranmia2222&label=Profile%20views&color=0e75b6&style=flat" alt="poranmia2222" /> </p>
+<h3 align="center">
+  Full-Stack Web Developer | JavaScript & React Enthusiast | Bangladesh 🇧🇩
+</h3>
 
-- 🔭 I’m currently working on **React.js, Next.js, Typescript for frontend development.**
-
-- 🌱 I’m currently learning **React, Next, Node, Express, MongoDB**
-
-- 📫 How to reach me **poranmia2222@gmail.com**
-
-- ⚡ Fun fact **My journey went from designing pixels to building applications.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/poranmia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/poranmia/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/poran1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/poran1999" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/poranmia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/poranmia/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/poranmia2222">
+    <img src="https://komarev.com/ghpvc/?username=poranmia2222&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poranmia2222&show_icons=true&locale=en&layout=compact" alt="poranmia2222" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poranmia2222&show_icons=true&locale=en" alt="poranmia2222" /></p>
+I'm a **Full-Stack Web Developer** passionate about building modern, responsive, and user-focused web applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poranmia2222&" alt="poranmia2222" /></p>
+I've been working as a **Graphic Designer since 2020**, and along the way, I discovered my passion for web development. Now, I'm combining my creative design background with programming to build better digital experiences.
+
+* 🔭 Currently working with **React.js, Next.js & TypeScript**
+* 🌱 Currently learning **React, Next.js, Node.js, Express.js & MongoDB**
+* 🎨 Graphic Designer since **2020**
+* 💻 Passionate about **Full-Stack Web Development**
+* 🧠 Interested in **JavaScript, TypeScript & Modern Web Technologies**
+* ⚡ Fun fact: **My journey went from designing pixels to building applications.**
+* 📫 Reach me at **[poranmia2222@gmail.com](mailto:poranmia2222@gmail.com)**
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+  </a>
+</p>
+
+### Backend & Database
+
+<p align="left">
+  <a href="https://nodejs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="45" height="45" alt="Firebase"/>
+  </a>
+</p>
+
+### Design Tools
+
+<p align="left">
+  <a href="https://www.figma.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop"/>
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" width="45" height="45" alt="Illustrator"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/poranmia/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+
+  <a href="https://www.facebook.com/poran1999" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+
+  <a href="https://leetcode.com/u/poranmia/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poranmia2222&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poranmia2222&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poranmia2222" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Frontend Development    ███████████████████░   React • Next.js • TypeScript
+Backend Development     ███████████████░░░░░   Node.js • Express.js
+Database                █████████████░░░░░░░   MongoDB
+Problem Solving         ████████████░░░░░░░░   JavaScript • TypeScript
+UI/UX & Design          ████████████████████   Figma • Photoshop • Illustrator
+```
+
+---
+
+<p align="center">
+  <b>💻 Code. 🎨 Design. 🚀 Build.</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
