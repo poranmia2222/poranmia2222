@@ -12,25 +12,15 @@
 
 ## 👨‍💻 About Me
 
-> 🚀 **Full-Stack Web Developer** passionate about creating modern, responsive, and user-focused digital experiences.
+> 🚀 **Full-Stack Web Developer** building modern and user-focused web applications.
 
-With a background in **Graphic Design since 2020**, I transitioned into web development to combine **visual creativity with programming** and turn ideas into functional products.
+🎨 **Graphic Designer since 2018** → now combining creative design with programming.
 
-### 🚀 What I'm Up To
-
-- 🔭 **Building:** Full-stack projects with **React.js, Next.js & TypeScript**
-- 🌱 **Exploring:** **Node.js, Express.js, MongoDB & advanced TypeScript**
-- 🎨 **Background:** **Graphic Design** since 2020
-- 🧠 **Improving:** **JavaScript, TypeScript & problem-solving**
-- 🎯 **Focused on:** **Clean code, performance & great user experiences**
-- ⚡ **Fun Fact:** My journey went from **designing pixels → writing code**
+- 🔭 **Building:** React.js, Next.js & TypeScript projects
+- 🌱 **Exploring:** Node.js, Express.js & MongoDB
+- 🧠 **Improving:** JavaScript, TypeScript & Problem Solving
+- 🎯 **Focused on:** Clean Code, Performance & UI/UX
 - 📫 **Email:** [Email](mailto:poranmia2222@gmail.com)
-
-### 💡 My Journey
-
-**🎨 Design → 💻 Code → 🚀 Full-Stack**
-
-My design background helps me approach development from both a **creative and technical perspective**, allowing me to build products that are not only functional but also visually engaging.
 
 ---
 
@@ -77,14 +67,6 @@ My design background helps me approach development from both a **creative and te
 ---
 
 ## 📊  GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poranmia2222&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poranmia2222&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=poranmia2222" alt="GitHub Streak" />
