@@ -15,69 +15,33 @@
 
 ---
 
-## 👨‍💻 About Me
-
-> 🚀 **Full-Stack Web Developer** building modern and user-focused web applications.
-
-🎨 **Graphic Designer since 2018** → now combining creative design with programming.
-
-- 🔭 **Building:** React.js, Next.js & TypeScript projects
-- 🌱 **Exploring:** Node.js, Express.js & MongoDB
-- 🧠 **Improving:** JavaScript, TypeScript & Problem Solving
-- 🎯 **Focused on:** Clean Code, Performance & UI/UX
-- 📫 **Feel free to reach me out** [Email](mailto:poranmia2222@gmail.com)
-
----
-
 ## 🚀 Tech Stack
 
 <div align="center">
 
-**💻 Languages**
+### 💻 Languages & Frontend
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-
-<br><br>
-
-**🎨 Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap" />
 
 <br><br>
 
-**⚙️ Backend**
+### ⚙️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<br><br>
-
-**🗄️ Databases & Services**
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
 <br><br>
 
-**🧰 Tools**
+### 🧰 Tools & Design
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
-<br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop">
 
-**🎨 Design Tools**
-
-<p>
-  <a href="https://www.figma.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45" alt="Figma">
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop">
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" width="45" height="45" alt="Illustrator">
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" width="45" height="45" alt="Illustrator">
 
 </div>
+
+---
 
 ---
 
@@ -116,6 +80,7 @@
 </p>
 
 ---
+
 
 <h2 align="center">🤝 Let's Connect</h2>
 
