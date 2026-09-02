@@ -43,7 +43,9 @@ I'm a **Full-Stack Web Developer** focused on building fast, scalable, and user-
 
 <table align="center"> <tr> <td align="center" valign="top" width="33%">
 
-💻 Languages & Frontend <br><br> <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap" />
+💻 Languages & Frontend <br><br> <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 
 </td> <td align="center" valign="top" width="33%">
 
