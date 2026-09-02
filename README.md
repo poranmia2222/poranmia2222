@@ -3,80 +3,78 @@
 </p>
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Md. Poran Mia
+  Hi there, I'm Md. Poran Mia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Exploring+Next.js+%26+Modern+Web+Technologies"
-    alt="MERN Stack Developer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Scalable%2C+User-Focused+Applications;Exploring+Next.js+%26+TypeScript"
+    alt="Typing SVG"
   >
+</p>
+
+<p align="center">
+  <a href="mailto:poranmia2222@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/poranmia/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=poranmia2222&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-> 🚀 **Full-Stack Web Developer** building modern and user-focused web applications.
+I'm a **Full-Stack Web Developer** focused on building fast, scalable, and user-friendly web applications with the **MERN stack**. I started out as a **Graphic Designer in 2018**, and that design background now shapes how I approach every product I build — clean, intentional, and detail-driven.
 
-🎨 **Graphic Designer since 2018** → now combining creative design with programming.
-
-- 🔭 **Building:** React.js, Next.js & TypeScript projects
-- 🌱 **Exploring:** Node.js, Express.js & MongoDB
-- 🧠 **Improving:** JavaScript, TypeScript & Problem Solving
-- 🎯 **Focused on:** Clean Code, Performance & UI/UX
-- 📫 **Email:** [poranmia2222@gmail.com](mailto:poranmia2222@gmail.com)
+- 🔭 **Currently building:** projects with React.js, Next.js & TypeScript
+- 🌱 **Currently exploring:** advanced Node.js, Express.js & MongoDB patterns
+- 🧠 **Currently sharpening:** JavaScript, TypeScript & problem solving
+- 🎯 **Focused on:** clean code, performance, and thoughtful UI/UX
+- 🎨 **Background in:** graphic design (Photoshop, Illustrator, Figma)
+- 💬 **Ask me about:** React, Node.js, Express, MongoDB, UI/UX
+- 📫 **Reach me at:** [poranmia2222@gmail.com](mailto:poranmia2222@gmail.com)
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
 <div align="center">
 
-### 💻 Languages & Frontend
-
+**Languages & Frontend**
+<br>
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap" />
 
 <br><br>
 
-### ⚙️ Backend & Databases
-
+**Backend & Databases**
+<br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
 <br><br>
 
-### 🧰 Tools & Design
-
+**Tools & Design**
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" width="45" height="45" alt="Illustrator">
 
 </div>
 
 ---
 
----
-
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="./profile/stats.svg"
-    alt="GitHub Stats"
-    width="48%"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    alt="Top Languages"
-    width="43%"
-  />
+  <img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="43%" />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=poranmia2222"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=poranmia2222&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
     width="60%"
   />
@@ -84,40 +82,27 @@
 
 ---
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/poranmia2222/poranmia2222/gh-pages/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poranmia2222/poranmia2222/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poranmia2222/poranmia2222/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/poranmia2222/poranmia2222/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
-
-<h2 align="center">🤝 Let's Connect</h2>
+<h3 align="center">🤝 Let's Connect</h3>
 
 <p align="center">
   <a href="mailto:poranmia2222@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/poranmia/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=poranmia2222&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
 </p>
 
 <p align="center">
