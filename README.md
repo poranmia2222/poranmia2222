@@ -77,11 +77,10 @@ I'm a **Full-Stack Web Developer** focused on building fast, scalable, and user-
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poranmia2222/poranmia2222/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poranmia2222/poranmia2222/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/poranmia2222/poranmia2222/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/poranmia2222/poranmia2222/gh-pages/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+  />
 </p>
 
 ---
