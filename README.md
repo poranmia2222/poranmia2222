@@ -15,6 +15,20 @@
 
 ---
 
+## 👨‍💻 About Me
+
+> 🚀 **Full-Stack Web Developer** building modern and user-focused web applications.
+
+🎨 **Graphic Designer since 2018** → now combining creative design with programming.
+
+- 🔭 **Building:** React.js, Next.js & TypeScript projects
+- 🌱 **Exploring:** Node.js, Express.js & MongoDB
+- 🧠 **Improving:** JavaScript, TypeScript & Problem Solving
+- 🎯 **Focused on:** Clean Code, Performance & UI/UX
+- 📫 **Email:** [poranmia2222@gmail.com](mailto:poranmia2222@gmail.com)
+
+---
+
 ## 🚀 Tech Stack
 
 <div align="center">
