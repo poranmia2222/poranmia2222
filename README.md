@@ -41,27 +41,19 @@ I'm a **Full-Stack Web Developer** focused on building fast, scalable, and user-
 
 ### 🚀 Tech Stack
 
-<div align="center">
+<table align="center"> <tr> <td align="center" valign="top" width="33%">
 
-**Languages & Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap" />
+💻 Languages & Frontend <br><br> <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap" />
 
-<br><br>
+</td> <td align="center" valign="top" width="33%">
 
-**Backend & Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+⚙️ Backend & Databases <br><br> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
-<br><br>
+</td> <td align="center" valign="top" width="33%">
 
-**Tools & Design**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" width="45" height="45" alt="Illustrator">
+🧰 Tools & Design <br><br> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="42" height="42" alt="Photoshop" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" width="42" height="42" alt="Illustrator" />
 
-</div>
+</td> </tr> </table> <br>
 
 ---
 
